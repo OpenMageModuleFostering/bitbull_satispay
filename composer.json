@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Bitbull_Satispay",
+    "name": "OpenMageModuleFostering\/Bitbull_Satispay",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Accept payments via Satispay.",
     "authors": [
-    {
-        "name": "Renato Cason",
-        "email": "devel@bitbull.it"
-    }
-],
+        {
+            "name": "Renato Cason",
+            "email": "devel@bitbull.it"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
